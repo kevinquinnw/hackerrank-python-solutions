@@ -1,8 +1,8 @@
 # hackerrank-python-solutions
-All my solutions for Hacker Rank Python. Practicing clean, efficient code. 
+All my solutions for Hacker Rank Python. Practicing everyday with Python. 
 
 # Goal 
-On my quest to come a better programmer, I wanted to see how many Hacker Rank solutions I could come up with for Python and see what I was made of.
+On my quest to come a better programmer, I wanted to see how many Hacker Rank solutions I could come up with for Python and to explain the solution. I thought this would be a great way to introduce myself to new code and revisit things I already know. 
 
-# Explanation 
-If anyone finds this repository and wants it explained don't be afraid to email me at kevinquinnw@gmail.com
+# Email for Help
+I'd love to help if anyone is confused. Email me at kevinquinnw@gmail.com
