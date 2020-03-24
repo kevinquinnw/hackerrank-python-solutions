@@ -37,5 +37,7 @@ Sample Output
 # Explanation 
 
 1st Line: Setting up the function. 
-2nd Line: Printing the three values. The separator parameter known as 'sep' between the arguments to print() function is space by default
-which can be modified and can be made to any character, integer, or string per our choice. It is found only in Python 3.X or later.
+
+2nd Line: Printing the three values. The separator parameter known as 'sep' between the arguments to print() function is space by default.
+
+This can be modified and can be made to any character, integer, or string per our choice. It is found only in Python 3.X or later.
