@@ -17,7 +17,7 @@ Output Format
 Print Weird if the number is weird; otherwise, print Not Weird.
 
 # Code 
-
+``` python
     n = int(input())
     if n % 2 == 1:
         print("Weird")
@@ -27,6 +27,7 @@ Print Weird if the number is weird; otherwise, print Not Weird.
         print("Weird")
     else:
         print("Not Weird")
+```
         
 # Explanation 
   
