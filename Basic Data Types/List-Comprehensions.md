@@ -26,7 +26,7 @@ answerList = [[i, j, k] for i in range(x + 1) for j in range(y + 1) for k in ran
 print(answerList)
 ```
 
-#Explanation 
+# Explanation 
 1st Line: Asking for range for variables. We use '_' so we don't need to use the iterator or another variable. We use 4 for the range because we want to do our task 4 times. 
 
 2nd Line: Creating our list, we use our coordinates of the cuboid to see what the range will be for our three dimensions. We then wrap it up by saying that this all has to happen if the sum of the three coordinates doesn't equal n. (One of our constraints)
