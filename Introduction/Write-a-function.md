@@ -40,7 +40,10 @@ print(is_leap(year))
 # Explanation 
 1st Line: Defining what y (year) will be. 
 
-2nd Line: Return y if divides by 4 with no remainder. And operator to add other conditions. Return y if doesn't divide by 100 with no remainder or return y if y divides by 400 with no remainder. 
+== Equal-to Operator 
+!= Not Equal-to Operator
+
+2nd Line: Return y if divides by 4 with no remainder.  Use 'and' to add other conditions. Return y if doesn't divide by 100 with no remainder or return y if y divides by 400 with no remainder. 
 
 3rd Line: Setting up year equation 
 
