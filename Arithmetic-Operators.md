@@ -30,8 +30,8 @@ Sample Output
 
 # Code 
 
-a, b = int(input()), int(input())
-print = ((a + b), (a - b), (a * b), sep ='\n')
+  a, b = int(input()), int(input())
+  print = ((a + b), (a - b), (a * b), sep ='\n')
 
 
 # Explanation 
